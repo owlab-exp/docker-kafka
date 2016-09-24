@@ -1,3 +1,6 @@
+# Builds an image for Apache Kafka 0.8.1.2 from binary distribution.
+#
+
 FROM owlab/oracle-jdk8-arm64
 MAINTAINER Hun Jae Lee <hunjae.lee@gmail.com>
 
